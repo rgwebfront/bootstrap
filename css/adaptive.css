@@ -1,0 +1,420 @@
+@media screen and (min-width: 320px) and (max-width: 1199px) {
+
+  .w-75 {
+    width: 60% !important;
+  }
+
+  .slider-slick .slick-arrow.slick-prev {
+    left: 5px;
+  }
+
+  .slider-slick .slick-arrow.slick-next {
+    right: 5px;
+  }
+
+  .main .container h1 {
+    margin-bottom: 0rem !important;
+    margin-left: 0rem !important;
+    padding-bottom: 0rem !important;
+    margin-top: 1rem !important;
+    font-size: 100% !important;
+  }
+
+  .main .container p {
+    font-size: 70%;
+    margin-left: 0rem !important;
+    margin-bottom: 0rem !important;
+  }
+
+  .main .container .btn-slider {
+    width: 40% !important;
+    font-size: 100% !important;
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+    margin-left: 0rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  .main .container .btn-adaptive {
+    width: 30% !important;
+  }
+
+  .main .slider-img2 {
+    margin-right: 1rem !important;
+  }
+
+  .slider-slick .slick-arrow {
+    transform: scale(0.7);
+    top: 40%;
+  }
+
+  .products .container {
+    width: 90%;
+  }
+
+  .questions .container {
+    width: 90%;
+  }
+
+  .ui-accordion .ui-accordion-header {
+    font-size: 70%;
+  }
+
+  .accordion .ui-accordion-header-icon {
+    transform: scale(0.6);
+  }
+
+  .accordion .ui-accordion-header-active .ui-accordion-header-icon {
+    transform: scale(0.6) rotate(180deg);
+  }
+
+  .order .container {
+    width: 90%;
+  }
+
+  .order .container button.col-4 {
+    width: 40%;
+  }
+
+  .order .container button.ms-2 {
+    margin-left: 0.5rem !important;
+  }
+
+  footer .container-fluid p {
+    font-size: 13px !important;
+  }
+
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 379px) {
+
+  .main .container {
+    width: 100%;
+  }
+
+}
+
+
+@media screen and (min-width: 380px) and (max-width: 439px) {
+
+  .main .container {
+    width: 100%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .main .container .btn-slider {
+    width: 40% !important;
+    font-size: 100% !important;
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+  }
+
+  .main .container .btn-adaptive {
+    width: 30% !important;
+  }
+
+  .main .container p a {
+    font-size: 100%;
+    margin-left: 0rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  .order .container button.col-4 {
+    width: 40%;
+  }
+
+  .products .container {
+    width: 80%;
+  }
+
+  .questions .container {
+    width: 75%;
+  }
+
+  .order .container {
+    width: 75%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 1rem !important;
+    font-size: 120% !important;
+  }
+}
+
+
+@media screen and (min-width: 440px) and (max-width: 470px) {
+  .main .container {
+    width: 100%;
+  }
+
+  .order .container button.col-4 {
+    width: 40%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .products .container {
+    width: 80%;
+  }
+
+  .questions .container {
+    width: 75%;
+  }
+
+  .order .container {
+    width: 75%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 2rem !important;
+    font-size: 120% !important;
+  }
+
+}
+
+
+@media screen and (min-width: 471px) and (max-width: 550px) {
+
+  .main .container {
+    width: 100%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .order .container button.col-4 {
+    width: 40%;
+  }
+
+  .products .container {
+    width: 70%;
+  }
+
+  .questions .container {
+    width: 75%;
+  }
+
+  .order .container {
+    width: 75%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 2rem !important;
+    font-size: 120% !important;
+  }
+
+}
+
+@media screen and (min-width: 551px) and (max-width: 640px) {
+
+  .main .container {
+    width: 100%;
+  }
+
+
+  .order .container button.col-4 {
+    width: 35%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .products .container {
+    width: 70%;
+  }
+
+  .questions .container {
+    width: 75%;
+  }
+
+  .order .container {
+    width: 75%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 3rem !important;
+    font-size: 170% !important;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 640px) {
+  .products .container {
+    width: 100%;
+  }
+
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px) {
+
+  .main .container {
+    width: 100%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .order .container button.col-4 {
+    width: 30%;
+  }
+
+  .products .container {
+    width: 100%;
+  }
+
+  .questions .container {
+    width: 65%;
+  }
+
+  .order .container {
+    width: 55%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 3rem !important;
+    font-size: 170% !important;
+  }
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 800px) {
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .products .container {
+    width: 100%;
+  }
+
+  .questions .container {
+    width: 60%;
+  }
+
+  .order .container {
+    width: 50%;
+  }
+
+  .order .container button.col-4 {
+    width: 30%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 3rem !important;
+    font-size: 170% !important;
+  }
+
+}
+
+@media screen and (min-width: 801px) and (max-width: 991px) {
+
+  .order .container button.col-4 {
+    width: 30%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 2rem !important;
+  }
+
+  .products .container {
+    width: 100%;
+  }
+
+  .questions .container {
+    width: 60%;
+  }
+
+  .order .container {
+    width: 50%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 3rem !important;
+    font-size: 170% !important;
+  }
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+  .main .container div .ms-5 {
+    margin-left: 3rem !important;
+  }
+
+  .order .container button.col-4 {
+    width: 25%;
+  }
+
+  .products .container {
+    width: 100%;
+  }
+
+  .questions .container {
+    width: 50%;
+  }
+
+  .order .container {
+    width: 40%;
+  }
+
+  .main .container h1 {
+    padding-bottom: 4rem !important;
+    font-size: 170% !important;
+  }
+
+  .main .container p {
+    margin-bottom: 1rem !important;
+  }
+
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+  .main .container {
+    width: 66.66666667%;
+  }
+
+  .order .container button.col-4 {
+    width: 25%;
+  }
+
+  .products .container {
+    width: 100%;
+  }
+
+  .questions .container {
+    width: 50%;
+  }
+
+  .order .container {
+    width: 33%;
+  }
+
+  .main .container div .ms-5 {
+    margin-left: 3rem !important;
+  }
+
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .questions .container {
+    width: 50%;
+  }
+
+  .w-75 {
+    width: 60% !important;
+  }
+}
